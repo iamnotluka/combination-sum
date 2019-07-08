@@ -16,3 +16,6 @@ New output.txt file will be created and in few minutes it will solve the given p
 
 ## Demo
 You can also run demo.py the same way that will show all the steps algorithm took to find the solution.
+
+## What I learned?
+This assignment tested my problem solving skills, and solving combination sum problem increased my understanding of backgracking algorithms and tree search algorithms. I also improved my understanding of Time and Space Complexity of algorithms.
